@@ -1,6 +1,8 @@
 {
   "name": "driversurvey",
-  "app_id": 12785642,
+  "app_id": "12785642",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
